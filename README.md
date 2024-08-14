@@ -12,6 +12,6 @@ Tableu Work: https://public.tableau.com/app/profile/luke.bowen2068/vizzes
 
 Skills
 
-Programmong LAnguages: C, C++, C#, Python, R, SQL, PowerBi, EnScript, Solidity
-Data Analysis & Visualization: pandas, seaborn, Tableau, Power BI
-Databases: MySQL, Excel
+- Programmong LAnguages: C, C++, C#, Python, R, SQL, PowerBi, EnScript, Solidity
+- Data Analysis & Visualization: pandas, seaborn, Tableau, Power BI
+- Databases: MySQL, Excel
